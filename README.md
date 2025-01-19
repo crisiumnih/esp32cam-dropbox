@@ -17,7 +17,7 @@ Capture images with ESP32-CAM and upload them to Dropbox.
 
 - Manual Reset Needed
 
-  Right now, you need to press the reset button to take another photo. A future update will let the button take photos directly.
+Right now, you need to press the reset button to take another photo. A future update will let the button take photos directly.
 
 ### Future Plans
 
