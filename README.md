@@ -25,6 +25,8 @@ Capture images with ESP32-CAM and upload them to Dropbox.
 
   2. Make the button capture and upload photos without resetting the ESP32.
 
+  3. Add some stuff to make it to copy to clipboard
+
 #### Replace these placeholders with your details:
 
 ```cpp
